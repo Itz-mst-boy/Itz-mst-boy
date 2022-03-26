@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, Python..**
 
-- 💬 Ask me about **Contact me on TG :- @Itz_mst_boy**
+- 💬 Ask me about **Contact me on TG :- [Mukesh](http://t.me/itz_mst_boy) **
 
 - 📫 How to reach me **Mukeshkumar916241@gmail.com**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-mst-boy&show_icons=true&locale=en" alt="itz-mst-boy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-mst-boy&" alt="itz-mst-boy" /></p>
+ 
