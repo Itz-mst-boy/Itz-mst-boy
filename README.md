@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Mukeshkumar916241@gmail.com**
 
-- ⚡ Fun fact **I love forking repo**
+- ⚡ Fun fact **I love kanging repo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
