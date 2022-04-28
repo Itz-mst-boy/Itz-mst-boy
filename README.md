@@ -1,5 +1,5 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ ᴍᴜᴋᴇsʜ</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">ɴᴏᴏʙ ғʀᴏᴍ  ʙɪʀᴛʜ ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ғʀᴏᴍ ᴘɪʀᴏ ᴘʟᴀʏᴇʀ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-mst-boy&label=Profile%20views&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **HTML, Python..**
 
-- 💬 Ask me about **Contact me on TG :- [Mukesh](http://t.me/itz_mst_boy) **
+- 💬 Ask me about **Contact me on TG :- [ᴍᴜᴋᴇsʜ](http://t.me/itz_mst_boy) **
 
 - 📫 How to reach me **Mukeshkumar916241@gmail.com**
 
-- ⚡ Fun fact **I love kanging repo**
+- ⚡ Fun fact **ɪ ғᴏɴᴅ ᴏғ ᴋᴀɴɢɪɴɢ ʀᴇᴘᴏ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
