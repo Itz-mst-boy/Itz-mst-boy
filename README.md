@@ -1,6 +1,6 @@
 
 
-<h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
+<h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Itz-mst-boy/count.svg" />
@@ -15,7 +15,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Itz-mst-boy&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Itz-mst-boy)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-mst-boy&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Itz-mst-boy)
 
-[<img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/hr.gif"/>](https://github.com/Itz-mst-boy)
+[<img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/"/>](https://github.com/Itz-mst-boy)
 
 <h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
