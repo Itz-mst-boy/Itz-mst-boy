@@ -7,7 +7,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Itz-mst-boy/count.svg" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-mst-boy&label=Profile%20views&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-mst-boy&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
 
 <p align="left"> <a href="https://github.com/Itz-mst-boy/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-mst-boy" alt="itz-mst-boy" /></a> </p>
 
