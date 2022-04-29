@@ -1,14 +1,14 @@
 
 
-<h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴜᴋᴇsʜ </h1>
+<h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Itz-mst-boy/count.svg" />
 </p>
 
-[<img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/hr.gif"/>](https://github.com/Itz-mst-boy)
+[<img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/"/>](https://github.com/Itz-mst-boy)
 
-<h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 
 <h1> <img src = "https://github.com/Itz-mst-boy/Itz-mst-boy/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
