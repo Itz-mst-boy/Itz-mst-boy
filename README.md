@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-mst-boy&label=Profile%20views&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-mst-boy" alt="itz-mst-boy" /></a> </p>
+<p align="left"> <a href="https://github.com/Itz-mst-boy/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-mst-boy" alt="itz-mst-boy" /></a> </p>
 
 - 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ](https://t.me/moi_bot_lists/4)
 
