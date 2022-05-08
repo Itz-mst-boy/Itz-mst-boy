@@ -14,7 +14,8 @@
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
-- 💬 ᴀsᴋ  ᴍᴇ ᴀʙᴏᴜᴛ  **ᴄᴏɴᴛᴀᴄᴛ  ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ :- [ᴍᴜᴋᴇsʜ](http://t.me/itz_mst_boy) **
+- ❣️ ᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/itz_mst_boy) 
+<br>**
 https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram
 - 📫 ʜᴏᴡ  ᴛᴏ  ʀᴇᴀᴄʜ  ᴍᴇ  **Mukeshkumar916241@gmail.com**
 
