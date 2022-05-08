@@ -35,4 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-mst-boy&show_icons=true&locale=en" alt="itz-mst-boy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-mst-boy&" alt="itz-mst-boy" /></p>
- 
+
+ [![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/mukhushi_official) 
+
+[![𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://img.shields.io/badge/Support-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/worldwide_friend_zone)
