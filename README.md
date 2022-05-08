@@ -21,7 +21,6 @@
 - ⚡ ғᴜɴ  ғᴀᴄᴛ  **ɪ ғᴏɴᴅ ᴏғ ᴋᴀɴɢɪɴɢ ʀᴇᴘᴏ **
 
 <h3 align="left">ᴄᴏɴɴᴇᴄᴛ  ᴡɪᴛʜ ᴍᴇ :</h3>
-<p align="left">
  [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/itz_mst_boy) 
 <br>
 <h3 align="left">ʟᴀɴɢᴜᴀɢᴇs   ᴀɴᴅ ᴛᴏᴏʟs :</h3>
