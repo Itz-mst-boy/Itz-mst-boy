@@ -10,12 +10,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-mst-boy&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [![ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴛᴇʟᴇɢʀᴀᴍ)](https://t.me/moi_bot_lists/4) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [![ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ʟɪsᴛs)](https://t.me/moi_bot_lists/4) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
-- ❣️ ᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ [![ᴍᴜᴋᴇsʜ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/itz_mst_boy) 
+- ❣️ ᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ [![ᴍᴜᴋᴇsʜ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴍᴜᴋᴇsʜ)](https://t.me/itz_mst_boy) 
 <br>**
 - 📫 ʜᴏᴡ  ᴛᴏ  ʀᴇᴀᴄʜ  ᴍᴇ  **Mukeshkumar916241@gmail.com**
 
