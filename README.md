@@ -15,7 +15,7 @@
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
 - 💬 ᴀsᴋ  ᴍᴇ ᴀʙᴏᴜᴛ  **ᴄᴏɴᴛᴀᴄᴛ  ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ :- [ᴍᴜᴋᴇsʜ](http://t.me/itz_mst_boy) **
-
+https://t.me/share/url?url={https://t.me/itz_mst_boy}&text={Mukesh}
 - 📫 ʜᴏᴡ  ᴛᴏ  ʀᴇᴀᴄʜ  ᴍᴇ  **Mukeshkumar916241@gmail.com**
 
 - ⚡ ғᴜɴ  ғᴀᴄᴛ  **ɪ ғᴏɴᴅ ᴏғ ᴋᴀɴɢɪɴɢ ʀᴇᴘᴏ **
